@@ -1,0 +1,6 @@
+Required Pages:
+
+- Login, Create Account, Account Recovery
+
+- A search window with selectable options
+- A detail page for information on a specific car
